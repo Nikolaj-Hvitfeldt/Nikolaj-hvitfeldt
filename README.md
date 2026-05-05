@@ -24,7 +24,7 @@ More projects: [nikolajhvitfeldt.dk](https://nikolajhvitfeldt.dk)
 
 ## 📫 Contact
 - Portfolio: https://nikolajhvitfeldt.dk  
-- LinkedIn: (add link)  
+- LinkedIn:(https://www.linkedin.com/in/nikolaj-hvitfeldt)  
 
 ---
 
