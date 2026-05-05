@@ -20,7 +20,7 @@ Here are a few things I've worked on:
 More projects: [nikolajhvitfeldt.dk](https://nikolajhvitfeldt.dk)
 
 ## 💼 Experience
-- Internship at **HMF Group** – worked on a .NET desktop application in collaboration with an embedded team  
+- Internship at **HMF Group** – worked on a .NET desktop application for configuring system settings in cranes 
 
 ## 📫 Contact
 - Portfolio: https://nikolajhvitfeldt.dk  
