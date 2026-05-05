@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nikolaj 👋
 
-<!--
-**Nikolaj-Hvitfeldt/Nikolaj-hvitfeldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer working primarily with TypeScript (React & Node.js), with additional experience in C# .NET.
 
-Here are some ideas to get you started:
+I enjoy building applications end-to-end – from user-facing features to API design and data handling – with a focus on structure and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- TypeScript, React, Node.js  
+- C# .NET  
+- PostgreSQL / SQL  
+- React Query, REST APIs  
+
+## 🚀 Projects
+Here are a few things I've worked on:
+
+- **[Lineup](https://github.com/andreasbbusk/lineup)** – Web app for musicians  
+- **[Amori](https://github.com/Nikolaj-Hvitfeldt/amori)** – Memory sharing app between partners 
+- **[Quartermark](https://github.com/Nikolaj-Hvitfeldt/quartermark)** – Real-time Jackbox-inspired app  
+
+More projects: [nikolajhvitfeldt.dk](https://nikolajhvitfeldt.dk)
+
+## 💼 Experience
+- Internship at **HMF Group** – worked on a .NET desktop application in collaboration with an embedded team  
+
+## 📫 Contact
+- Portfolio: https://nikolajhvitfeldt.dk  
+- LinkedIn: (add link)  
+
+---
+
+Currently looking for an internship 👀
